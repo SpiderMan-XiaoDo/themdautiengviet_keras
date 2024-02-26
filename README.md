@@ -30,3 +30,7 @@ Model's result with Attention:
 <img src = "assets\image\attention.png" width = 75%>
 
 ## References
+ [1] Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. Neural machine trans lation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473,  2014. Published on 2014/09/01
+
+ [2] Matthew Snover, Bonnie Dorr, Rich Schwartz, Linnea Micciulla, and John Makhoul. A study of translation edit rate with targeted human annotation. https://aclanthology.org/2006.amta-papers.25/, 2006
+ [3] Re-evaluating the Role of  BLEU in Machine Translation Research, ChrisCallison Burch, Miles Osborne, Philipp Koehn
