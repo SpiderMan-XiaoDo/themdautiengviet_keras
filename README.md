@@ -3,8 +3,6 @@ This project will utilize the Seq2seq model for Adding Vietnamese diacritics.
 
 ## Abstract
 This project was created by three students from HUSC: Nguyen Luon Mong Do, Vo Dat Van, Nguyen Tien Nhat.
-
-v
 ## Installation
 
 1. Clone this respository:
