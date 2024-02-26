@@ -24,9 +24,9 @@ To train the LSTM model, I used this dataset: https://drive.google.com/drive/fol
 ## Result
 
 Model's result with Non-attention:
-<img src= "assets\image\non_attention.png" width = 100%>
+<img src= "assets\image\non_attention.png" width = 75%>
 
 Model's result with Attention:
-<img src = "assets\image\attention.png" width = 100%>
+<img src = "assets\image\attention.png" width = 75%>
 
 ## References
